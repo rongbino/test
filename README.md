@@ -2,4 +2,4 @@
 make test for git command
 
 
-Tag 1
+Tag 0.0.2
